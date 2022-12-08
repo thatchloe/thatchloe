@@ -1,4 +1,4 @@
-# Hi, I'm Hoang Anh <img src="https://cdn3.emoji.gg/emojis/7269-reindeerclyde.png>
+# Hi, I'm Hoang Anh <img src="https://cdn3.emoji.gg/emojis/7269-reindeerclyde.png">
 
 <!--
 **thatchloe/thatchloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
