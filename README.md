@@ -1,5 +1,5 @@
 # Hi, I'm Hoang Anh <img src="https://cdn3.emoji.gg/emojis/7269-reindeerclyde.png">
-<img src="https://images-stylist.s3-eu-west-1.amazonaws.com/app/uploads/2020/02/24111501/why-finland-is-the-ultimate-solo-travel-destination.jpg">
+
 <!--
 **thatchloe/thatchloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
