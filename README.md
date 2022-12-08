@@ -8,7 +8,7 @@
 👯 I’m looking to collaborate on open sources projects
 
 <a href=https://www.linkedin.com/in/hoang-anh-luong-843191132/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=thatchloe&color=blue">
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21j7jzzfwqrzol55r5jgccx2q&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 ```python
 class Anh_Luong:
   def __init__(self):
