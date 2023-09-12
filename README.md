@@ -13,7 +13,12 @@
 - 📫 How to reach me **luonghoanganh9801@gmail.com**
 
 - ⚡ Fun fact **I am very energetic and curious**
-
+```python
+ class Anh_Luong:
+   def __init__(self):
+    self.pronouns = "She/her"
+    self.hobbies = ["traveling", "programming", "music", "yoga"]
+```
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -32,6 +37,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatchloe&show_icons=true&locale=en&layout=compact" alt="thatchloe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatchloe&show_icons=true&locale=en" alt="thatchloe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatchloe&" alt="thatchloe" /></p>
+
+## 📈 Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=thatchloe&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thatchloe&theme=tokyonight&ring=DD5BBE&dates=2DDD51)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatchloe&theme=tokyonight&layout=compact&langs_count=6">
