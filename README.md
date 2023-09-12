@@ -3,9 +3,6 @@
 <h3 align="center">A passionate developer based in Barcelona</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatchloe" alt="thatchloe" /></a> </p>
-
 - 🌱 I’m currently learning **machine learning,GANs models, web development with django**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ha.herokuapp.com](https://portfolio-ha.herokuapp.com)
