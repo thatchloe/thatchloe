@@ -1,6 +1,6 @@
-# Hi, I'm Hoang Anh <img src="https://cdn3.emoji.gg/emojis/7269-reindeerclyde.png">
+# Hi, I'm Hoang Anh <img src="https://cdn3.emoji.gg/emojis/7269-reindeerclyde.png"> <h3 align="center">A passionate developer based in Barcelona</h3>
 
-<h3 align="center">A passionate developer based in Barcelona</h3>
+
 
 
 - 🌱 I’m currently learning **machine learning,GANs models, web development with django**
