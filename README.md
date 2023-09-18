@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **luonghoanganh9801@gmail.com**
 
-- ⚡ Fun fact **I am very energetic and curious**
+- ⚡ Describe myself a little **I am organized and creative, also energetic and curious**
 ```python
  class Anh_Luong:
    def __init__(self):
