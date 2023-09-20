@@ -1,9 +1,9 @@
-# Hi, I'm Hoang Anh <img src="https://cdn3.emoji.gg/emojis/7269-reindeerclyde.png"> <h3 align="center">A passionate developer based in Barcelona</h3>
+# Hi, I'm Hoang Anh, a passionate developer based in Barcelona</h3> <img src="https://cdn3.emoji.gg/emojis/7269-reindeerclyde.png"> <h3 align="center">
 
 
 
 
-- 🌱 I’m currently learning **machine learning,GANs models, web development with django**
+- 🌱 I’m currently learning **machine learning,transformer models, web development with django**, I'm self-teaching most of the time, my goal is to become a software engineer, or work in AI related field.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ha.herokuapp.com](https://portfolio-ha.herokuapp.com)
 
