@@ -14,7 +14,7 @@
  class Anh_Luong:
    def __init__(self):
     self.pronouns = "She/her"
-    self.hobbies = ["traveling", "programming", "music", "yoga"]
+    self.hobbies = ["traveling", "programming", "reading", "yoga"]
 ```
 
 
