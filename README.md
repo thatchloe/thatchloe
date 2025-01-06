@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I have great passion for **machine learning and software development**. Currently I'm learning about **transformers,NLP, Computer Vision and web development with Django**, I'm self-teaching most of the time, my goal is to become a software engineer, or work in AI related field.
+- 🌱 I have great passion for **Generative AI and data engineering**. Currently I'm learning about **transformers, LLM and data engineering**, I'm self-teaching most of the time, my goal is to become a software engineer, or work in AI and data related field.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ha.herokuapp.com](https://portfolio-ha.herokuapp.com)
 
